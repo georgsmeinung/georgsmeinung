@@ -30,7 +30,7 @@ Currently, I lead the AI & Data Practice at **[Capgemini](https://www.capgemini.
 
 ### 📫 Let's Connect!
 
-- **LinkedIn**: [jorgenicolau](https://www.linkedin.com/in/jorgenicolau/)
-- **Website**: [jorgenicolau.ar](https://jorgenicolau.ar/)
-- **GitHub**: [georgsmeinung](https://github.com/georgsmeinung)
+- **LinkedIn**: [https://www.linkedin.com/in/jorgenicolau/](https://www.linkedin.com/in/jorgenicolau/)
+- **Website**: [https://jorgenicolau.ar/](https://jorgenicolau.ar/)
+- **GitHub**: [https://github.com/georgsmeinung](https://github.com/georgsmeinung)
 
