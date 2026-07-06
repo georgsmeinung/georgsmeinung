@@ -1,3 +1,7 @@
+<!--
+**georgsmeinung/georgsmeinung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 ## Hi there 👋, I'm Jorge Nicolau
 
 I am a **Senior AI Solutions Architect** and **AI & Data Practice Lead** based in [Buenos Aires, Argentina](https://en.wikipedia.org/wiki/Buenos_Aires). I specialize in designing, implementing, and governing high-impact technology solutions across cloud-native and custom application landscapes. 
@@ -30,6 +34,3 @@ Currently, I lead the AI & Data Practice at **[Capgemini](https://www.capgemini.
 - **Website**: [jorgenicolau.ar](https://jorgenicolau.ar/)
 - **GitHub**: [georgsmeinung](https://github.com/georgsmeinung)
 
-<!--
-**georgsmeinung/georgsmeinung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
